@@ -8,3 +8,8 @@
 	url = https://github.com/alexyermanos/platypus
 	shallow = true
 	registered = true
+[submodule "VDJgermlines"]
+	path = VDJgermlines
+	url = https://github.com/cran/VDJgermlines
+	shallow = true
+	registered = true
